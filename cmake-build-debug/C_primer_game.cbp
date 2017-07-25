@@ -85,6 +85,9 @@
 		<Unit filename="/Users/hui/github/C_primer_game/main.cpp">
 			<Option target="C_primer_game"/>
 		</Unit>
+		<Unit filename="/Users/hui/github/C_primer_game/main.h">
+			<Option target="C_primer_game"/>
+		</Unit>
 		<Unit filename="/Users/hui/github/C_primer_game/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
