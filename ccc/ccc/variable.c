@@ -8,10 +8,7 @@
 
 #include <stdio.h>
 
-extern int a;
-extern int b;
-
-int main(){
+int main() {
     /* 变量定义 */
     int a, b;
     int c;

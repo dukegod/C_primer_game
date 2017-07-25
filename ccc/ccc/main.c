@@ -8,8 +8,11 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main() {
+    float f;
+    
+    f = 70.0/3.0;
+    printf("value of f : %f \n", f);
+    
     return 0;
 }
