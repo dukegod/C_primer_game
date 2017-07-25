@@ -1,0 +1,3 @@
+/Users/hui/github/C_primer_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hui/github/C_primer_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hui/github/C_primer_game/cmake-build-debug/CMakeFiles/C_primer_game.dir
