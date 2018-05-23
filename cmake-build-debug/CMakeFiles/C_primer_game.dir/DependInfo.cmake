@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/liuhui15/githubPro/C_primer_game/main.c" "/Users/liuhui15/githubPro/C_primer_game/cmake-build-debug/CMakeFiles/C_primer_game.dir/main.c.o"
+  "/Users/hui/github/C_primer_game/main.c" "/Users/hui/github/C_primer_game/cmake-build-debug/CMakeFiles/C_primer_game.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
