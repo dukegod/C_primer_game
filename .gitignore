@@ -31,6 +31,9 @@
 *.out
 *.app
 
+
+cmake-build-debug/
+
 .DS_Store
 
 .idea
