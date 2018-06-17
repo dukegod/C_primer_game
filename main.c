@@ -3,10 +3,7 @@
 //
 
 # include <stdio.h>
-#include "libs/ipo.h"
-
-int main(int argc, const char * argv[]) {
-    ioPut();
+int main2(int argc, const char * argv[]) {
     printf("%s\n","hello world");
     return 0;
 }
