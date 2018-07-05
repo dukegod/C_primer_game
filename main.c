@@ -3,7 +3,7 @@
 //
 
 # include <stdio.h>
-int main2(int argc, const char * argv[]) {
+int main(int argc, const char * argv[]) {
     printf("%s\n","hello world");
     return 0;
 }
